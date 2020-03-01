@@ -3,12 +3,9 @@ from sys import exit
 import subprocess
 import re
 import requests
-import time
-#from Tkinter import *
 from tkinter import messagebox
 from tkinter import Frame,Label,BOTTOM,StringVar,Entry,Button,Tk,LEFT,OptionMenu
 import datetime
-
 
 APP = ''
 FRAME = ''
